@@ -1,0 +1,26 @@
+body{
+    background-color: brown;
+    color:black;
+    font-family: "monospace";
+    margin:0px;
+}
+h1{
+
+color:red;
+font-size: 40px;
+}
+p{
+    font-size: 24px;
+}
+header{
+    border-bottom: solid 3x cornflowerblue;
+    margin: 2px;
+    padding:10px;
+    color:silver
+}
+.chamada{
+    background: red;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+}
