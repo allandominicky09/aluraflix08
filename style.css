@@ -24,3 +24,21 @@ header{
     display:flex;
     justify-content: center;
 }
+.chamada-texto{
+    margin-right: 8%;
+}
+img{
+    height: 200px ;
+}
+ .chamada-videos{
+    display: flex;
+
+    overflow: auto;
+    gap: 15px;
+
+ }
+ .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+ }
